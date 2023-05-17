@@ -9,6 +9,7 @@ var rules = {
     "StackOverflow.com": ProxyMode.SOCKS5,
     "th.bing.com": ProxyMode.SOCKS5,
     "www.bing.com": ProxyMode.SOCKS5,
+    "EdgeServices.bing.com": ProxyMode.SOCKS5,
     "# workers.dev": ProxyMode.SOCKS5,
     "# Cloudflare.com": ProxyMode.SOCKS5,
     "# wikipedia.org": ProxyMode.SOCKS5,
