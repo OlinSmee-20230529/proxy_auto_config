@@ -1,3 +1,3 @@
 # Proxy Auto Config
 
-URL: https://raw.fastgit.org/SunRuiLin/proxy_auto_config/master/main.js
+URL: https://ghproxy.com/https://raw.githubusercontent.com/SunRuiLin/proxy_auto_config/master/main.js
