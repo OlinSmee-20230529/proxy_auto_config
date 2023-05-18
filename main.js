@@ -13,6 +13,7 @@ var rules = {
     "EdgeServices.bing.com": ProxyMode.SOCKS5,
     "# workers.dev": ProxyMode.SOCKS5,
     "# Cloudflare.com": ProxyMode.SOCKS5,
+    "upload.wikimedia.org": ProxyMode.SOCKS5,
     "# wikipedia.org": ProxyMode.SOCKS5,
     "# medium.com": ProxyMode.SOCKS5,
     "# ApkPure.com": ProxyMode.SOCKS5,
