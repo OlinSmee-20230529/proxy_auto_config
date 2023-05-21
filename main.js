@@ -37,6 +37,7 @@ var rules = {
     "# YouTuBe.com": ProxyMode.SOCKS5,
     "# DartPad.dev": ProxyMode.SOCKS5,
     "# Google.com.*": ProxyMode.SOCKS5,
+    "# FireBaseIo.com": ProxyMode.SOCKS5,
     "# GoogleCode.com": ProxyMode.SOCKS5,
     "# GoogleBlog.com": ProxyMode.SOCKS5,
     "# GoogleApis.com": ProxyMode.SOCKS5,
