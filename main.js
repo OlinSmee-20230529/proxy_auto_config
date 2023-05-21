@@ -30,6 +30,7 @@ var rules = {
     "# Goo.gle": ProxyMode.SOCKS5,
     "# ytImg.com": ProxyMode.SOCKS5,
     "# GgPht.com": ProxyMode.SOCKS5,
+    "# Chrome.com": ProxyMode.SOCKS5,
     "# Google.com": ProxyMode.SOCKS5,
     "# Android.com": ProxyMode.SOCKS5,
     "# gStatic.com": ProxyMode.SOCKS5,
