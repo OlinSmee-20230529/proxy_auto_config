@@ -5,6 +5,7 @@ var ProxyMode;
     ProxyMode["SOCKS5"] = "SOCKS5 localhost:51080";
 })(ProxyMode || (ProxyMode = {}));
 var rules = {
+    "# APKMirror.com": ProxyMode.SOCKS5,
     "app.RequestLy.io": ProxyMode.SOCKS5,
     "www.gravatar.com": ProxyMode.SOCKS5,
     "StackOverflow.com": ProxyMode.SOCKS5,
