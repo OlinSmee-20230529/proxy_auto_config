@@ -42,6 +42,7 @@ var rules = {
     "# GoogleBlog.com": ProxyMode.SOCKS5,
     "# GoogleApis.com": ProxyMode.SOCKS5,
     "# Google-Analytics.com": ProxyMode.SOCKS5,
+    "# GoogleTagManager.com": ProxyMode.SOCKS5,
     "# GoogleUserContent.com": ProxyMode.SOCKS5,
     "GitHub.com": ProxyMode.SOCKS5,
     "gist.GitHub.com": ProxyMode.SOCKS5,
