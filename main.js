@@ -40,6 +40,7 @@ var rules = {
     "# FireBaseIo.com": ProxyMode.SOCKS5,
     "# GoogleCode.com": ProxyMode.SOCKS5,
     "# GoogleBlog.com": ProxyMode.SOCKS5,
+    "# WithGoogle.com": ProxyMode.SOCKS5,
     "# GoogleApis.com": ProxyMode.SOCKS5,
     "# Google-Analytics.com": ProxyMode.SOCKS5,
     "# GoogleTagManager.com": ProxyMode.SOCKS5,
