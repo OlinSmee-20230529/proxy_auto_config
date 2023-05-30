@@ -5,6 +5,7 @@ var ProxyMode;
     ProxyMode["SOCKS5"] = "SOCKS5 localhost:51080";
 })(ProxyMode || (ProxyMode = {}));
 var rules = {
+    "# logRocket.com": ProxyMode.SOCKS5,
     "# Obsidian.md": ProxyMode.SOCKS5,
     "# APKMirror.com": ProxyMode.SOCKS5,
     "app.RequestLy.io": ProxyMode.SOCKS5,
