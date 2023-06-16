@@ -32,6 +32,7 @@ var rules = {
     "# Goo.gle": ProxyMode.SOCKS5,
     "# ytImg.com": ProxyMode.SOCKS5,
     "# GgPht.com": ProxyMode.SOCKS5,
+    "# Google.nl": ProxyMode.SOCKS5,
     "# Chrome.com": ProxyMode.SOCKS5,
     "dl.Google.com": ProxyMode.DIRECT,
     "# Google.com": ProxyMode.SOCKS5,
