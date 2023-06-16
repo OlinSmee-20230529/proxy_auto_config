@@ -28,6 +28,7 @@ var rules = {
     "# TamperMonkey.net": ProxyMode.SOCKS5,
     "# UNPKG.com": ProxyMode.SOCKS5,
     "# Flutter.dev": ProxyMode.SOCKS5,
+    "# G.co": ProxyMode.SOCKS5,
     "# Pub.dev": ProxyMode.SOCKS5,
     "# Goo.gle": ProxyMode.SOCKS5,
     "# ytImg.com": ProxyMode.SOCKS5,
