@@ -24,6 +24,7 @@ var rules = {
     "# Redd.it": ProxyMode.SOCKS5,
     "# Reddit.com": ProxyMode.SOCKS5,
     "# RedditMedia.com": ProxyMode.SOCKS5,
+    "# FBCdn.net": ProxyMode.SOCKS5,
     "# FaceBook.com": ProxyMode.SOCKS5,
     "# TamperMonkey.net": ProxyMode.SOCKS5,
     "# UNPKG.com": ProxyMode.SOCKS5,
