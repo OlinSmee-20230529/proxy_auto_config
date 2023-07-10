@@ -56,6 +56,7 @@ var rules = {
     "# GoogleUserContent.com": ProxyMode.SOCKS5,
     "GitHub.com": ProxyMode.SOCKS5,
     "gist.GitHub.com": ProxyMode.SOCKS5,
+    "CodeLoad.GitHub.com": ProxyMode.SOCKS5,
     "# GitHubUserContent.com": ProxyMode.SOCKS5,
     "# git-scm.com": ProxyMode.SOCKS5,
 };
