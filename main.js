@@ -12,6 +12,7 @@ var rules = {
     "app.RequestLy.io": ProxyMode.SOCKS5,
     "www.gravatar.com": ProxyMode.SOCKS5,
     "StackOverflow.com": ProxyMode.SOCKS5,
+    "# live.com": ProxyMode.SOCKS5,
     "# bing.com": ProxyMode.SOCKS5,
     "# workers.dev": ProxyMode.SOCKS5,
     "# Cloudflare.com": ProxyMode.SOCKS5,
