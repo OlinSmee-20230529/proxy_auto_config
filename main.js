@@ -5,7 +5,7 @@ var ProxyMode;
     ProxyMode["SOCKS5"] = "SOCKS5 localhost:51080";
 })(ProxyMode || (ProxyMode = {}));
 var rules = {
-    "# MyPikPak.com": ProxyMode.SOCKS5,
+    "MyPikPak.com": ProxyMode.SOCKS5,
     "# Gradle.org": ProxyMode.SOCKS5,
     "# logRocket.com": ProxyMode.SOCKS5,
     "# Obsidian.md": ProxyMode.SOCKS5,
